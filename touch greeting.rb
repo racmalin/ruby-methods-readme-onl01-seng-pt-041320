@@ -1,1 +1,0 @@
-greeting.RUBY_VERSION
